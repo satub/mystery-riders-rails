@@ -1,2 +1,2 @@
 # mystery-riders-rails
-Flatironschool webdev fellowship rails assessment project. 
+Possible Flatironschool webdev fellowship rails assessment project. 
